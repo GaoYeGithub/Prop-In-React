@@ -1,3 +1,11 @@
+Run in replit or
+
+npm i
+npm start
+
+![image](https://github.com/user-attachments/assets/88b7e3a4-a64d-47bc-9b9c-30b653907a0c)
+
+
 ## Running React on Replit
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
